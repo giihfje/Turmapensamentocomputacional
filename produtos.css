@@ -1,38 +1,16 @@
 header {
- background: aliceblue;
+    background: #7a88af;
 }
+
 nav li {
     display: inline;
-    margin: 0 0 0 15px;
+    margin: 0 0 0 16px;
 }
+
 nav a {
     text-transform: uppercase;
-    color: rgba(147, 178, 204, 0.877);
+    color: #7597c4;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 24px;
     text-decoration: none;
-}
- .caixa {
-    position: relative;
-    width: 940px;
-    right:0 auto;
-
- }
-
-
-nav a:hover {
-    color: #C78C19;
-    text-decoration: underline;
-}
-
-.produtos li:hover {
-    border-color: #C78C19;
-}
-
-.produtos li:active {
-    border-color: #088C19;    
-}
-
-.produtos li:hover h2 {
-    font-size: 34px;
 }
